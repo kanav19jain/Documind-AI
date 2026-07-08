@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🧠 DocuMind AI</h1>
+  <h1 align="center">🧠 DocuMind AI – Agentic RAG PDF Assistant</h1>
   <p align="center">
     <strong>Chat with your PDFs using Agentic RAG — powered by LLaMA 3.3, Gemini Embeddings & Pinecone</strong>
   </p>
